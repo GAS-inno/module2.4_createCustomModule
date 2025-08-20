@@ -1,4 +1,4 @@
 variable "prefixname"{
     type = string
-    default = "saw-test"
+    default = "saw-2025"
 }
